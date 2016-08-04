@@ -1,0 +1,32 @@
+_repo: All-for-Love--Or-The-World-Well-Lost--A-Tragedy_2062
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dryden, John
+    birthdate: 1631
+    deathdate: 1700
+    gutenberg_agent_id: '807'
+    url: http://www.gutenberg.org/2009/agents/807
+    wikipedia: http://en.wikipedia.org/wiki/John_Dryden
+description: ''
+gutenberg_bookshelf: Harvard Classics
+gutenberg_issued: '2000-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2062'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Egypt -- History -- 332-30 B.C. -- Drama'
+- !lcsh 'Generals -- Rome -- Drama'
+- !lcsh 'Romans -- Egypt -- Drama'
+- !lcc 'PR'
+- !lcsh 'Tragedies'
+- !lcsh 'Queens -- Egypt -- Drama'
+- !lcsh 'Cleopatra, Queen of Egypt, -30 B.C. -- Drama'
+- !lcsh 'Antonius, Marcus, 83?-30 B.C. -- Drama'
+- GITenberg
+title: 'All for Love; Or, The World Well Lost: A Tragedy'
+url: http://www.gutenberg.org/ebooks/2062
